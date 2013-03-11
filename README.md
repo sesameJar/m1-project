@@ -1,12 +1,12 @@
-##DrBijan wesite : Bijanfar.ir
-The website for the **Dr Bijanfar Farmecy And Skin Care Clinic** company.
+##Mi Project: Hotel Mobile Application
+The website for the **Darvishi** hotel.
 
 
 ###Contributing
 
-* Check our project's website and report any bugs or ideas in [issues](https://github.com/1schools-projects/drbijan/issues)
+* Check our project's website and report any bugs or ideas in [issues](https://github.com/mkdesign/m1-project/issues)
 
-* Check our project's source with
+* Clone our project's source with
 ```
     git clone https://github.com/mkdesign/m1-project.git
 ```
@@ -15,7 +15,9 @@ The website for the **Dr Bijanfar Farmecy And Skin Care Clinic** company.
 ###Building Technologies
 * [HTML5](http://ali.md/wiki/html5)
 * [CSS3](http://ali.md/css3ref)
-* [1Styles](http://ali.md/1styles)
+* [Stylus](http://ali.md/1styles)
+* [jQueryMobile](http://ali.md/jqm)
+* [Cordova](apache.cordova.org)
 
 
 ### All rights reserved ###
