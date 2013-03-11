@@ -23,4 +23,9 @@ Please note that Bijanfar.ir is a curated site and that we reserve the right to 
 
 The [M1 Project](http://mkdesign.ir) code and website is released under a MIT License.
 
-Produced by [Mohammad Reza Kavian](http://mkdesign.ir) students network (winter - spring 2013)
+Produced by [Mohammad Reza Kavian](http://mkdesign.ir)  (winter - spring 2013)
+
+
+### What's Next? ###
+
+* I'm ready to release Android.IOS and other platforms version for this repo.
