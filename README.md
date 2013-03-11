@@ -15,7 +15,7 @@ The website for the **Darvishi** hotel.
 ###Building Technologies
 * [HTML5](http://ali.md/wiki/html5)
 * [CSS3](http://ali.md/css3ref)
-* [Stylus](http://ali.md/1styles)
+* [Stylus](http://ali.md/stylus)
 * [jQueryMobile](http://ali.md/jqm)
 * [Cordova](apache.cordova.org)
 
