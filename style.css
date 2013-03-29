@@ -1,0 +1,21 @@
+body{
+
+	background-image : url('images/NSTexturedFullScreenBackgroundColor.png');
+	background-repeat: repeat;
+	
+}
+
+.container {
+	background-color : black;
+}
+
+ul.line > li {
+	background-image: url('images/lines.png');
+	background-repeat: no-repeat;
+	background-position: 20px center;
+	padding-left: 40px !important;
+}
+
+div#logo {
+	
+}
