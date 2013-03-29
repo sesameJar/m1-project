@@ -9,13 +9,18 @@ body{
 	background-color : black;
 }
 
+.container > * > *{
+	width: 95%;
+	margin: 0 auto;
+}
+
 ul.line > li {
-	background-image: url('images/lines.png');
+	background-image:url('images/lines.png');
 	background-repeat: no-repeat;
 	background-position: 20px center;
 	padding-left: 40px !important;
 }
 
 div#logo {
-	
+	border:0 none;
 }
