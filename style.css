@@ -11,14 +11,14 @@ body{
 
 .container > * > *{
 	width: 95%;
-	margin: 0 auto;
+	margin:10px auto 0;
 }
 
 ul.line > li {
 	background-image:url('images/lines.png');
 	background-repeat: no-repeat;
 	background-position: 20px center;
-	padding-left: 40px !important;
+	padding-left: 25px !important;
 }
 
 div#logo {
