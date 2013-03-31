@@ -1,24 +1,26 @@
-body{
-
-	background-image : url('images/NSTexturedFullScreenBackgroundColor.png');
-	background-repeat: repeat;
-	
+body {
 }
 
-.container {
+.container > *{
 	background-color : black;
+	background-image  : url('images/iPadBackgroundTexture-grey.png');
+	background-repeat : repeat;
 }
 
 .container > * > *{
-	width: 95%;
-	margin:10px auto 0;
+	width  : 95%;
+	margin : 10px auto 0;
 }
 
 ul.line > li {
-	background-image:url('images/lines.png');
-	background-repeat: no-repeat;
-	background-position: 20px center;
-	padding-left: 25px !important;
+	background-image    : url('images/lines.png');
+	background-repeat   : no-repeat;
+	background-position : 20px center;
+	padding-left        : 25px !important;
+}
+
+ul.line li.ldivider {
+	background-image: none;
 }
 
 div#logo {
