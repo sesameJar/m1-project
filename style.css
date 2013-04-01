@@ -1,28 +1,49 @@
-body {
+@font-face {
+    font-family: 'opensans';
+    src: url('fonts/OpenSans-CondLight-webfont.eot');
+    src: url('fonts/OpenSans-CondLight-webfont.eot?#iefix') format('embedded-opentype'),
+         url('fonts/OpenSans-CondLight-webfont.woff') format('woff'),
+         url('fonts/OpenSans-CondLight-webfont.ttf') format('truetype'),
+         url('fonts/OpenSans-CondLight-webfont.svg#OpenSansCondensedLight') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+body,html {
+	font-family: 'opensans', sans-serif;
 }
 
 .container > *{
-	background-color : black;
-	background-image  : url('images/iPadBackgroundTexture-grey.png');
+	background-color  : black;
+	background-image  : url('images/ioslinenbg.jpg');
 	background-repeat : repeat;
 }
 
 .container > * > *{
-	width  : 95%;
-	margin : 10px auto 0;
+	width       : 95%;
+	margin      : 10px auto 0;
+	font-family : 'opensans', sans-serif;
 }
 
 ul.line > li {
-	background-image    : url('images/lines.png');
-	background-repeat   : no-repeat;
-	background-position : 20px center;
-	padding-left        : 25px !important;
+	background-image   : url('images/lines.png');
+	background-repeat  : no-repeat;
+	background-position: 20px center;
+	padding-left       : 25px !important;
+	font-family        : 'opensans', sans-serif;
+	font-size          : 19px;
+	font-weight        : 300;
+	color:#333;
 }
 
 ul.line li.ldivider {
-	background-image: none;
+	background-image : none;
+	color: #ccc;
 }
 
 div#logo {
-	border:0 none;
+	border :0 none;
+	background-image  : url('images/ioslinenbg.jpg');
+	background-repeat : repeat;
 }
